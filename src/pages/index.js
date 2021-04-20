@@ -2,10 +2,10 @@ import React from "react"
 
 export default function Home() {
   return (
-    <div style={{ color: `green` }}>
+    <div style={{ color: `red` }}>
       <h1>Hola Verde!</h1>
       <p>What a world.</p>
-      <img src="C:\Users\viole\Hola-Verde\treesandfog.jpg"/>
+      <img src="C:./treesandfog.png" alt="why no pix"/>
     </div>
   );
 }
