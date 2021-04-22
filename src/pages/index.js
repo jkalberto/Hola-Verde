@@ -5,7 +5,7 @@ export default function Home() {
     <div style={{ color: `red` }}>
       <h1>Hola Verde!</h1>
       <p>What a world.</p>
-      <img src="C:\Users\viole\Hola-Verde\src\pages\treesandfog.png" alt="why no pix" />
+      <img src="https://github.com/jkalberto/Hola-Verde/blob/master/treesandfog.png" alt="why no pix" />
     </div>
   );
 } 
